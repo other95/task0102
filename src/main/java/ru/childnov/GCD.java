@@ -1,6 +1,14 @@
 package ru.childnov;
 
 public class GCD implements CommonDivisor {
+
+    /***
+     * Возвращает наибольший общий делитель двух чисел
+     * @param firstNumber - первое число
+     * @param secondNumber - второе число
+     * @return наибольший общий делитель
+     */
+
     public int getDivisor(int firstNumber, int secondNumber) {
         if (secondNumber > firstNumber) {
             int buf = firstNumber;
