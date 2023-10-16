@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Hello world!
+ * НОД
  *
  */
 public class App 
