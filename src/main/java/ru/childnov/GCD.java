@@ -1,5 +1,8 @@
 package ru.childnov;
 
+/***
+ * НОД
+ */
 public class GCD implements CommonDivisor {
 
     /***
